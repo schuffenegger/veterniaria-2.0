@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/13jFGxPRt7avUlQbzyf-cCvJWerSJjMrr
 """
 # Version Publica!
+# Este comentario seria el unico cambio que se le habria realizado al codigo nuevamente
 import csv
 id=0
 edad=0
